@@ -8,7 +8,7 @@ export const customStructure = (S) => {
       S.listItem()
         .title('All Movies')
         .child(
-          S.documentList('movie')
+          S.documentList()
             .filter('_type == "movie"')
             .title('Movies')
             .defaultOrdering([{field: 'pinned', direction: 'asc'}]),
