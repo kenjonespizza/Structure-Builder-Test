@@ -11,7 +11,8 @@ export const customStructure = (S) => {
           S.documentList('movie')
             .filter('_type == "movie"')
             .title('Movies')
-            .defaultOrdering([{field: 'title', direction: 'asc'}]),
+            .defaultOrdering([{field: 'pinned', direction: 'asc'}]),
+          // .defaultOrdering([{field: 'title', direction: 'asc'}]), // This also doesnt work
         ),
 
       // The rest of this document is from the original manual grouping in this series of articles
