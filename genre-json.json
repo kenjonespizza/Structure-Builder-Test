@@ -1,0 +1,21 @@
+[
+  {"_type": "genre", "title": "Action", "slug": {"current": "action"}},
+  {"_type": "genre", "title": "Adventure", "slug": {"current": "adventure"}},
+  {"_type": "genre", "title": "Animation", "slug": {"current": "animation"}},
+  {"_type": "genre", "title": "Comedy", "slug": {"current": "comedy"}},
+  {"_type": "genre", "title": "Crime", "slug": {"current": "crime"}},
+  {"_type": "genre", "title": "Documentary", "slug": {"current": "documentary"}},
+  {"_type": "genre", "title": "Drama", "slug": {"current": "drama"}},
+  {"_type": "genre", "title": "Family", "slug": {"current": "family"}},
+  {"_type": "genre", "title": "Fantasy", "slug": {"current": "fantasy"}},
+  {"_type": "genre", "title": "History", "slug": {"current": "history"}},
+  {"_type": "genre", "title": "Horror", "slug": {"current": "horror"}},
+  {"_type": "genre", "title": "Music", "slug": {"current": "music"}},
+  {"_type": "genre", "title": "Mystery", "slug": {"current": "mystery"}},
+  {"_type": "genre", "title": "Romance", "slug": {"current": "romance"}},
+  {"_type": "genre", "title": "Sci-Fi", "slug": {"current": "sci-fi"}},
+  {"_type": "genre", "title": "Sport", "slug": {"current": "sport"}},
+  {"_type": "genre", "title": "Thriller", "slug": {"current": "thriller"}},
+  {"_type": "genre", "title": "War", "slug": {"current": "war"}},
+  {"_type": "genre", "title": "Western", "slug": {"current": "western"}}
+]
